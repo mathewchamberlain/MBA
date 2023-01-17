@@ -1,1 +1,1 @@
-# Just some casual code for some MBA work
+# MBA work for business analytics
